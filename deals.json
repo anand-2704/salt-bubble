@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "store": "Amazon",
+    "category": "Audio",
+    "price": 189.99,
+    "oldPrice": 249.99,
+    "badge": "Hot Deal",
+    "description": "Noise cancellation, great for calls. Price may change quickly.",
+    "url": "https://www.amazon.com/",
+    "updated": "2025-12-30",
+    "tags": ["airpods", "apple", "headphones"],
+    "score": 95
+  },
+  {
+    "title": "65\" 4K Smart TV",
+    "store": "Best Buy",
+    "category": "TV & Home Theater",
+    "price": 499.99,
+    "oldPrice": 699.99,
+    "badge": "Limited Time",
+    "description": "Good value 4K TV. Check availability in your area.",
+    "url": "https://www.bestbuy.com/",
+    "updated": "2025-12-30",
+    "tags": ["tv", "4k", "smart"],
+    "score": 88
+  },
+  {
+    "title": "Gaming Laptop Deal",
+    "store": "Walmart",
+    "category": "Computers",
+    "price": 799.00,
+    "oldPrice": 999.00,
+    "badge": "Best Value",
+    "description": "Solid specs for the price. Compare before buying.",
+    "url": "https://www.walmart.com/",
+    "updated": "2025-12-30",
+    "tags": ["laptop", "gaming"],
+    "score": 80
+  }
+]
